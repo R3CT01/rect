@@ -1,0 +1,14 @@
+{
+  "resourceName": "rectuserresource",
+  "policyUUID": "beb557d5",
+  "bucketName": "rectuserstorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
