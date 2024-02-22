@@ -12,6 +12,7 @@ import 'package:aura/widgets/errorcode.dart';
 import 'package:aura/widgets/minimalbutton.dart';
 import 'package:aura/widgets/navpanel.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:logger/logger.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import '../amplifyconfiguration.dart';
